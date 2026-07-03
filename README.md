@@ -18,6 +18,7 @@ Commands:
 - `npm run dev` — start Vite dev server (proxies `/api` to 8787)
 - `npm run build` — production build of the client
 - `npm run preview` — preview built assets
+- [Mautic](https://www.mautic.org) - Open-source, self-hostable marketing automation platform for campaigns, segmentation, and customer journeys.
 
 ## Data Flow
 
